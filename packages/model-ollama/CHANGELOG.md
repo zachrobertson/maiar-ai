@@ -1,9 +1,17 @@
 # Change Log
 
-All notable changes to this project will be documented in this file.  
+All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<<<<<<< HEAD
 # 0.1.1 (2025-02-12)
+=======
+# [0.2.0](https://github.com/UraniumCorporation/maiar-ai/compare/v0.1.2...v0.2.0) (2025-02-15)
+
+**Note:** Version bump only for package @maiar-ai/model-ollama
+
+# 0.1.2 (2025-02-12)
+>>>>>>> c75af3c (chore(release): 🔖 create new tag and release v0.2.0)
 
 # 🎉 Introducing Maiar v0.1.1
 
